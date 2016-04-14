@@ -31,7 +31,7 @@ class MediaMaker(object):
             return False
 
         if movie_data['Response'] != 'True':
-            print ("[!] No data found with for \"" + title + "\"")
+            print ("[!] No data found for \"" + title + "\"")
             return False
 
         print ("[*] Data recovered for " + movie_data['Title'])

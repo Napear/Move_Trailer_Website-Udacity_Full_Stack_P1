@@ -14,7 +14,8 @@ movie_list = {
     'Fargo': 'h2tY82z3xXU',
     'Master and Commander': 'KpNhN-L9L-g',
     'Gladiator': '0BLZbrLogTo',
-    'Not A Real Movie': 'not_a_real_link'}
+    'Not A Real Movie': 'not_a_real_link',  # testcase
+    'The Green Mile': 'c661tGdl0AI'}
 
 # Create a list of Movie objects (favs[]) from the entries in movie_list
 favs = []
