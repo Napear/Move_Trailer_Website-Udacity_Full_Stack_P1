@@ -1,5 +1,4 @@
 # Movie Trailer Web Page
----
 
 This is a simple program designed to dynamically create a web page with a gallery of movie posters which can be clicked to show the trailer for the corresponding movie.  
 
