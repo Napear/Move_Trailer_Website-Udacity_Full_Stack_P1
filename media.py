@@ -19,8 +19,9 @@ class MediaMaker(object):
 
     @staticmethod
     def create_movie(title, trailer_youtube_id):
-        """Returns a Movie object if data on the film can be found based on the title.
-         Returns False if no data can be found.  Result logs are printed to stdout."""
+        """Returns a Movie object if data on the film can be found based on the
+        title. Returns False if no data can be found.  Result logs are printed
+        to stdout."""
         params = 't=' + title
 
         try:  # Attempt to retrieve film data from OMDd API
