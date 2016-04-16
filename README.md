@@ -13,7 +13,7 @@ movie_list = {'<b>Move Title</b>': '<b>YouTube ID</b>'}`
  
  Finally the run the entertainment_center.py script. 
 
-`python  ./entertainment_center.py`
+<pre>python  ./entertainment_center.py</pre>
 
 ## External Resources
 ---
