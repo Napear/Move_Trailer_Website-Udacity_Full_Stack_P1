@@ -1,7 +1,8 @@
 import json
 import urllib
 
-OMDD = 'http://www.omdbapi.com/?'  # API access point for the Open Movie Database
+# API access point for the Open Movie Database
+OMDD = 'http://www.omdbapi.com/?'
 
 
 class Movie:

@@ -3,12 +3,12 @@ import sys
 import fresh_tomatoes
 from media import MediaMaker
 
-"""This script uses the fresh_tomatoes and media modules to dynamically generate
-an html document containing a gallery of movie posters, each of which links to a
- trailer for that film"""
+"""This script uses the fresh_tomatoes and media modules to dynamically
+generate an html document containing a gallery of movie posters, each of which
+ links to a trailer for that film"""
 
 # This list must contain the proper title of a film as key and the YouTube ID
-# for its trailer as the key and value respectivly
+# for its trailer as the key and value respectively
 movie_list = {
     'Forrest Gump': 'eYSnxZKTZzU',
     'Star Wars: Episode V': 'JNwNXF9Y6kY',
