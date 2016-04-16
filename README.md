@@ -7,9 +7,7 @@ This is a simple program designed to dynamically create a web page with a galler
 ---
 
 The three python files (entertainment_center.py, media.py and fresh_tomatoes.py) must all be all be placed in the same folder.  Next the title and YouTube ID of the trailer for each film to be displayed should be added to the movie_list hash located in the entertainment_center.py file. 
-<pre> 
-movie_list = {'<b>Move Title</b>': '<b>YouTube ID</b>'}`
-</pre>
+<pre>movie_list = {'<b>Move Title</b>': '<b>YouTube ID</b>'}`</pre>
  
  Finally the run the entertainment_center.py script. 
 
