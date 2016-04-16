@@ -36,6 +36,7 @@ class MediaMaker(object):
             print ("[!] No data found for \"" + title + "\"")
             return False
 
+        # Create and return movie object
         print ("[*] Data recovered for " + movie_data['Title'])
         movie = Movie(
             movie_data['Title'],
