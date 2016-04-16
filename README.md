@@ -1,4 +1,5 @@
 # Movie Trailer Web Page
+---
 
 This is a simple program designed to dynamically create a web page with a gallery of movie posters which can be clicked to show the trailer for the corresponding movie.  
 
@@ -13,7 +14,7 @@ The three python files (entertainment_center.py, media.py and fresh_tomatoes.py)
 
 `python  ./entertainment_center.py`
 
-## External Resources Used
+## External Resources
 ---
 
 The information for each film is obtained via the Open Movie Database API (OMDb).  Information about the API can be found at [http://omdbapi.com/](http://omdbapi.com/)
