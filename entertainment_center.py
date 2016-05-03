@@ -7,7 +7,7 @@ from media import MediaMaker
 generate an html document containing a gallery of movie posters, each of which
  links to a trailer for that film"""
 
-# This list must contain the proper title of a film as key and the YouTube ID
+# This list must contain the proper title of a film and the YouTube ID
 # for its trailer as the key and value respectively
 movie_list = {
     'Forrest Gump': 'eYSnxZKTZzU',
